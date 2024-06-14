@@ -13,4 +13,4 @@ Here are some of the tasks Need to be Achieved
 2. Share Github Link for Code Verification
 3. Share the Netlify and Vercel Link where you have hosted the code
 
-Submittion URL : https://forms.gle/12TZ4r9osfZ5XdbJ6
+Submittion URL : https://forms.gle/TQs7EXD1UEc9Rkk48
