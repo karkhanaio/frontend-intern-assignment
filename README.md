@@ -11,4 +11,6 @@ Here are some of the tasks Need to be Achieved
 ## Submittion
 1. Host it on Hosting Apps like vercel or netlify
 2. Share Github Link for Code Verification
-3. Share the link as assignment submittion
+3. Share the Netlify and Vercel Link where you have hosted the code
+
+Submittion URL : https://forms.gle/12TZ4r9osfZ5XdbJ6
